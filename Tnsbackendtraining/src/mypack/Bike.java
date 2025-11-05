@@ -1,6 +1,7 @@
 package mypack;
 
 public class Bike {
+	//bike
 	String brand;
     String model;
     int mileage;
