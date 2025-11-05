@@ -1,5 +1,5 @@
 package mypack;
-
+//variable
 public class Main {
 
 	    public static void main(String[] args) {

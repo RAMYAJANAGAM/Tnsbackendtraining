@@ -4,7 +4,7 @@ public class IfElseLadderExample {
     public static void main(String[] args) {
 //variable
         int marks = 75;
-
+//method
         if (marks >= 90) {
             System.out.println("Grade: A+");
         } else if (marks >= 80) {
