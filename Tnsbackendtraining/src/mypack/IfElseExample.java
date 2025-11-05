@@ -2,7 +2,7 @@ package mypack;
 
 public class IfElseExample {
     public static void main(String[] args) {
-
+//variables
         int age = 18;
 
         if (age >= 18) {

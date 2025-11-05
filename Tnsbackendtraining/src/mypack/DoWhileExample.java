@@ -13,7 +13,7 @@ public class DoWhileExample {
             }
             i++; // increment
         } while (i <= 10); // condition checked after execution
-
+//print
         System.out.println("All even numbers printed!");
     }
 }

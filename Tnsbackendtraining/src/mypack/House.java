@@ -1,5 +1,5 @@
 package mypack;
-
+//class
 public class House {
 	    // Variables
 	    String color;

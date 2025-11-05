@@ -1,8 +1,8 @@
 package mypack;
-
+//class
 public class IfElseLadderExample {
     public static void main(String[] args) {
-
+//variable
         int marks = 75;
 
         if (marks >= 90) {
